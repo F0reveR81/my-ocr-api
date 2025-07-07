@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "express": "^4.18.2",
-    "onnxruntime-node": "https://github.com/microsoft/onnxruntime-node/releases/download/v1.18.0/onnxruntime-node-1.18.0.tgz",
+    "onnxruntime-node": "1.15.1",
     "jimp": "^0.16.1"
   }
 }
